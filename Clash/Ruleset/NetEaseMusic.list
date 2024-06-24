@@ -3,3 +3,4 @@
 DOMAIN-SUFFIX,music.126.net,DIRECT
 DOMAIN-SUFFIX,music.163.com,Netease
 DOMAIN-SUFFIX,man.netease.com,Netease
+PROCESS-NAME,com.netease.cloudmusic,unblock
