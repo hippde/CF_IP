@@ -1,4 +1,4 @@
-BASE_DIR=/etc/xiaoya
+BASE_DIR=/mnt/sdb2/xiaoya-tvbox
 TAG="hostmode"
 UPDATE=false
 MOUNT=""
